@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1734107474711
+current_stage: None
+description: null
+last_updated_timestamp: 1734107474711
+name: logistic_model_v1
+run_id: 4856d66eede6441f9bfa0ee4151ecbf1
+run_link: null
+source: file:///C:/Users/ual-laptop/OneDrive%20-%20University%20of%20Arizona/Desktop/MIS547CloudProject/Ass11/mlruns/0/4856d66eede6441f9bfa0ee4151ecbf1/artifacts/logistic_regression_model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/ual-laptop/OneDrive%20-%20University%20of%20Arizona/Desktop/MIS547CloudProject/Ass11/mlruns/0/4856d66eede6441f9bfa0ee4151ecbf1/artifacts/logistic_regression_model
+user_id: null
+version: 1
